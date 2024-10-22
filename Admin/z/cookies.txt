@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kiswa.net	TRUE	/	FALSE	1999999999	ci_session	3cb56e4a00433b1d6f53e5d483768e8c204de10a
+
